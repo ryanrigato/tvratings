@@ -5,15 +5,15 @@ You can ask for a specific night or a summary of the ratings in a year.
 
 **FAQ**
 
-When does the most recent Saturday night ratings update?
-
-Typically 3-5 business days after the television block occurred
-
 What date ranges is television ratings available?
 
 2012-05-26 through 2017-05-27
-2018-11-10 through the present
+2018-11-10 through 2022
 
 What do I do if I have the ratings for a night that the skill is currently missing?
 
 Please provide us the source of the missing ratings information as feedback by leaving this skill a review.
+
+Why does the most recent Saturday night ratings no longer update?
+
+Starting in 2022, the ratings source stopped being published publically
