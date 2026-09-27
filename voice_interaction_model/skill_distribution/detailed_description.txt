@@ -1,5 +1,7 @@
 Use this skill to get the television ratings for the Adult Swim Saturday night Toonami television block.
 
+This project is for historical archiving purposes to remember a time when television ratings mattered when people actually had cable.
+
 You can ask for a specific night or a summary of the ratings in a year.
 
 
@@ -16,4 +18,4 @@ Please provide us the source of the missing ratings information as feedback by l
 
 Why does the most recent Saturday night ratings no longer update?
 
-Starting in 2022, the ratings source stopped being published publically
+Starting in 2022, the ratings source stopped being published regularly to the general public.
